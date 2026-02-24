@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RocketSeat-CSharp-Test-1.Ex-1", "RocketSeat-CSharp-Test-1.Ex-1\RocketSeat-CSharp-Test-1.Ex-1.csproj", "{224C03B6-F753-44B8-AF72-129DD3548841}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RocketSeat-CSharp-Test-1.Ex-2", "RocketSeat-CSharp-Test-1.Ex-2\RocketSeat-CSharp-Test-1.Ex-2.csproj", "{600B3281-045A-4A00-8048-7BE485FAC667}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RocketSeat-CSharp-Test-1.Ex-3", "RocketSeat-CSharp-Test-1.Ex-3\RocketSeat-CSharp-Test-1.Ex-3.csproj", "{F050BA50-F2FF-44B3-BD4B-4606C471A525}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RocketSeat-CSharp-Test-1.Ex-4", "RocketSeat-CSharp-Test-1.Ex-4\RocketSeat-CSharp-Test-1.Ex-4.csproj", "{DFCB511F-8AB7-4C45-8FC0-D39E1C3172C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RocketSeat-CSharp-Test-1.Ex-5", "RocketSeat-CSharp-Test-1.Ex-5\RocketSeat-CSharp-Test-1.Ex-5.csproj", "{373422E6-298D-4971-ABB2-646DD1881A4D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RocketSeat-CSharp-Test-1.Ex-6", "RocketSeat-CSharp-Test-1.Ex-6\RocketSeat-CSharp-Test-1.Ex-6.csproj", "{DD95EAA0-43E9-462E-8093-FF22B2554B28}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{224C03B6-F753-44B8-AF72-129DD3548841}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{224C03B6-F753-44B8-AF72-129DD3548841}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{224C03B6-F753-44B8-AF72-129DD3548841}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{224C03B6-F753-44B8-AF72-129DD3548841}.Release|Any CPU.Build.0 = Release|Any CPU
+		{600B3281-045A-4A00-8048-7BE485FAC667}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{600B3281-045A-4A00-8048-7BE485FAC667}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{600B3281-045A-4A00-8048-7BE485FAC667}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{600B3281-045A-4A00-8048-7BE485FAC667}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F050BA50-F2FF-44B3-BD4B-4606C471A525}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F050BA50-F2FF-44B3-BD4B-4606C471A525}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F050BA50-F2FF-44B3-BD4B-4606C471A525}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F050BA50-F2FF-44B3-BD4B-4606C471A525}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFCB511F-8AB7-4C45-8FC0-D39E1C3172C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFCB511F-8AB7-4C45-8FC0-D39E1C3172C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFCB511F-8AB7-4C45-8FC0-D39E1C3172C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFCB511F-8AB7-4C45-8FC0-D39E1C3172C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{373422E6-298D-4971-ABB2-646DD1881A4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{373422E6-298D-4971-ABB2-646DD1881A4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{373422E6-298D-4971-ABB2-646DD1881A4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{373422E6-298D-4971-ABB2-646DD1881A4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD95EAA0-43E9-462E-8093-FF22B2554B28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD95EAA0-43E9-462E-8093-FF22B2554B28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD95EAA0-43E9-462E-8093-FF22B2554B28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD95EAA0-43E9-462E-8093-FF22B2554B28}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
